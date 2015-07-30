@@ -1,3 +1,3 @@
 # Clock
 
-Link: https://katebee.github.io/Clock/
+Link: https://katebee.github.io/Mote/
