@@ -1,15 +1,22 @@
 body {
   background-color: rgb(234,203,128);
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+#day {
+  color: rgb(238,238,238);
+  font-size: 180px;
+  padding-top: 100px;
+  font-weight: 500;
+}
+
+#calendar {
+  color: rgb(238,238,238);
+  font-size: 80px;
 }
 
 #clock {
-  height: 300px;
-  width: 1000px;
-  margin: auto;
-  position: absolute;
-  top: 0; left: 0; bottom: 0; right: 0;
-  font-family: courier, monospace;
-  text-align: center;
   color: rgb(238,238,238);
-  font-size: 200px;
+  font-size: 150px;
 }
